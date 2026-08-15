@@ -1,0 +1,4 @@
+{
+  "name": "Delivery Status Translations",
+  "install": "python3 scripts/validate_translations.py || true"
+}
